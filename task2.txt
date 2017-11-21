@@ -1,3 +1,7 @@
-demo file 
+do some sorting techniqe in java:-
+bubble sorting
+insertion sorting
+selection sorting
+quick sorting
+merge sorting
 
-newly changes
