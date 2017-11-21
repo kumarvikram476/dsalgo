@@ -1,0 +1,12 @@
+do some sorting and searching
+
+counting sorting
+redix sorting
+heap sorting
+
+linear searching
+binary searching
+jump searching
+interpolution searching
+exponential searching
+ternary searching
