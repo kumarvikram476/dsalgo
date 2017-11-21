@@ -1,0 +1,3 @@
+read bout singletone pattern and single responsibality pattern 
+
+do connectionpool assignment in java eclipse
